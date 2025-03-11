@@ -8,3 +8,5 @@ Developed a Simple Transport Protocol (STP) over UDP to ensure reliable data tra
 - Designed multi-threaded architecture with state management for connection setup/teardown, packet tracking, and retransmission handling.
   
 - Utilised hash maps for efficient packet management and sliding window logic for flow control.
+
+Report: https://github.com/ptandjiria/Simple-transport-protocol/blob/main/report.pdf
